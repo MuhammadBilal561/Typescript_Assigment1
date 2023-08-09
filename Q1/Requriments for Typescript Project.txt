@@ -1,0 +1,5 @@
+1>Install VS Code        (DONE)
+
+2>Install Node JS        (DONE)
+
+3>Install TypeScript     (DONE)
