@@ -3,5 +3,5 @@
 
 
 let personName: string = "Muhammad Bilal";
-let message: string = 'Hello ${personName},how are you?';
+let message: string = `Hello ${personName},how are you?`;
 console.log(message);
